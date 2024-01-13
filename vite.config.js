@@ -10,4 +10,5 @@ export default defineConfig({
     outDir: "build",
   },
   plugins: [tsconfigPaths(), react()],
+  base: "/Portfolio/",
 });
