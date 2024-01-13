@@ -55,37 +55,37 @@
             "id":"1",
             "name":"Html5",
             "level":"advance",
-            "width":"3/4"
+            "width":"75"
         },
         {
             "id":"2",
             "name":"Css,Sass",
             "level":"advance",
-            "width":"3/4"
+            "width":"75"
         },
         {
             "id":"3",
             "name":"Bootstrap,Tailwindcss",
             "level":"advance",
-            "width":"3/4"
+            "width":"75"
         },
         {
             "id":"4",
             "name":"Javascript,JQuery",
             "level":"advance",
-            "width":"3/4"
+            "width":"75"
         },
         {
             "id":"5",
             "name":"React",
             "level":"itermediate",
-            "width":"1/2"
+            "width":"50"
         },
         {
             "id":"6",
             "name":"React native",
             "level":"beginner",
-            "width":"1/4"
+            "width":"25"
         }
 
     ],
