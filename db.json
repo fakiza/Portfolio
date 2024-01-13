@@ -1,0 +1,106 @@
+{
+    "projects":[
+        {   
+            "id":"1",
+            "name":"Shopify E-commerce",
+            "description":"Developed a dynamic and user-friendly e-commerce website specializing in clothing and accessories. Utilized React.js to create interactive components, ensuring a modern and engaging shopping experience. State management using react Context api, Integrate frontend components with the serverside logic with APIs.",
+            "url":"https://fakiza.github.io/React_Shopify/",
+            "image":"/images/shopify.png"
+
+
+        },
+        {   
+            "id":"2",
+            "name":"Leetcode for javascript",
+            "description":"The LeetCode Explorer project is a web application built using React and JSON data to help users explore and practice coding problems from the popular LeetCode platform. This project provides a user-friendly interface for navigating through coding challenges and honing JavaScript skills.",
+            "url":"https://fakiza.github.io/LeetCode",
+            "image":"/images/leetcode.png"
+
+        },
+        {   
+            "id":"3",
+            "name":"Weather forecast",
+            "description":"Developed a dynamic and responsive Weather Forecast application using React.js to provide users with real-time weather information. The application fetches data from a weather API and displays it in an intuitive and visually appealing manner, enhancing the user's experience in checking weather conditions.",
+            "url":"https://fakiza.github.io/React_Weatherforecast/",
+            "image":"/images/weatherforecast.png"
+
+        },
+        {   
+            "id":"4",
+            "name":"React Todo",
+            "description":"Developed a modern and user-friendly To-do application using React.js to streamline task management. This interactive app allows users to create, edit, and delete tasks effortlessly.",
+            "url":"https://fakiza.github.io/React_todo/",
+            "image":"/images/todo.png"
+
+        },
+        {   
+            "id":"5",
+            "name":"Fydees E-commerce",
+            "description":"Developed an engaging E-commerce platform, Fydees, enabling users to seamlessly purchase clothing and accessories online. Implemented a robust admin panel for efficient management of products, categories, order tracking details, and stock.",
+            "url":"https://fydees.in/",
+            "image":"/images/shopify.png"
+
+        },
+        {   
+            "id":"6",
+            "name":"Portfolio website",
+            "description":"The Personal Portfolio Website project is a showcase of skills, projects, and achievements built using React. This dynamic and interactive website serves as a digital resume, providing visitors with a comprehensive overview of the developer's expertise, experiences, and a glimpse into their coding journey.",
+            "url":"https://fydees.in/",
+            "image":"/images/portfolio.png"
+
+        }
+    ],
+    "technologies":[
+        {
+            "id":"1",
+            "name":"Html5",
+            "level":"advance",
+            "width":"3/4"
+        },
+        {
+            "id":"2",
+            "name":"Css,Sass",
+            "level":"advance",
+            "width":"3/4"
+        },
+        {
+            "id":"3",
+            "name":"Bootstrap,Tailwindcss",
+            "level":"advance",
+            "width":"3/4"
+        },
+        {
+            "id":"4",
+            "name":"Javascript,JQuery",
+            "level":"advance",
+            "width":"3/4"
+        },
+        {
+            "id":"5",
+            "name":"React",
+            "level":"itermediate",
+            "width":"1/2"
+        },
+        {
+            "id":"6",
+            "name":"React native",
+            "level":"beginner",
+            "width":"1/4"
+        }
+
+    ],
+    "skills":[  
+                "React Context API",
+                "RESTful APIs" ,
+                "Material UI",
+                "React Hook form",
+                "React Query",
+                "Git Version Control", 
+                "NPM package Manager", 
+                "Performance Optimization" ,
+                "Scalability ",
+                "Team Collaboration" ,
+                "Responsive Web Design",
+                "Cross-Browser Compatibility"   
+            ]
+}
