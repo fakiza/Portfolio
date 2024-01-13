@@ -11,7 +11,7 @@ const useApi = () => {
     useEffect( ()=> {
         const fetchData = async () =>{
             try{
-                const response = await axios.get('/db.json');
+                const response = await axios.get('/Portfolio/db.json');
                 setProjects(response.data.projects);
                 setTechnology(response.data.technologies);
                 setSkills(response.data.skills)
