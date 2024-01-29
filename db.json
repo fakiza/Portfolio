@@ -9,8 +9,15 @@
 
 
         },
-        {   
+        {
             "id":"2",
+            "name":"User Authentication",
+            "description":"In this project, I developed a robust user authentication system using React.js and Firebase, providing a secure and seamless authentication experience for users. Firebase Authentication services were leveraged to handle user sign-up, sign-in and sign-out functionalities.",
+            "url":"https://fakiza.github.io/Userauth/",
+            "image":"images/userauth.png"
+        },
+        {   
+            "id":"3",
             "name":"Leetcode for javascript",
             "description":"The LeetCode Explorer project is a web application built using React and JSON data to help users explore and practice coding problems from the popular LeetCode platform. This project provides a user-friendly interface for navigating through coding challenges and honing JavaScript skills.",
             "url":"https://fakiza.github.io/LeetCode",
@@ -18,7 +25,7 @@
 
         },
         {   
-            "id":"3",
+            "id":"4",
             "name":"Weather forecast",
             "description":"Developed a dynamic and responsive Weather Forecast application using React.js to provide users with real-time weather information. The application fetches data from a weather API and displays it in an intuitive and visually appealing manner, enhancing the user's experience in checking weather conditions.",
             "url":"https://fakiza.github.io/React_Weatherforecast/",
@@ -26,7 +33,7 @@
 
         },
         {   
-            "id":"4",
+            "id":"5",
             "name":"React Todo",
             "description":"Developed a modern and user-friendly To-do application using React.js to streamline task management. This interactive app allows users to create, edit, and delete tasks effortlessly.",
             "url":"https://fakiza.github.io/React_todo/",
@@ -34,7 +41,7 @@
 
         },
         {   
-            "id":"5",
+            "id":"6",
             "name":"Fydees E-commerce",
             "description":"Developed an engaging E-commerce platform, Fydees, enabling users to seamlessly purchase clothing and accessories online. Implemented a robust admin panel for efficient management of products, categories, order tracking details, and stock.",
             "url":"https://fydees.in/",
@@ -42,7 +49,7 @@
 
         },
         {   
-            "id":"6",
+            "id":"7",
             "name":"Portfolio website",
             "description":"The Personal Portfolio Website project is a showcase of skills, projects, and achievements built using React. This dynamic and interactive website serves as a digital resume, providing visitors with a comprehensive overview of the developer's expertise, experiences, and a glimpse into their coding journey.",
             "url":"https://fakiza.github.io/Portfolio",
